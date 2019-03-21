@@ -13,4 +13,5 @@ Grab WIFI passwords using duckyscript
 5) Find a target computer or laptop with atleast 2 available usb ports
 6) Plug the USB drive first, then the BadUSB
 7) Wait for the powershell window to close and pull out your BadUSB and USB drive
-8) Have fun!
+
+A File containing all the WIFI passwords and SSIDs will be placed on the usb drive
